@@ -6,7 +6,7 @@ I just began my deep learning journey on the topic of intelligent audio.
 
 If you are, or grinding to be a deep audio learner, feel free to collaborate with me.
 
-My email is ly432@ie.cuhk.edu.hk.
+My email is ly423@ie.cuhk.edu.hk.
 
 <!--
 **Rozenthegoat/Rozenthegoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
