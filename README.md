@@ -4,6 +4,8 @@ My name is Yuheng Lin, currently an MSc student in CUHK (Hong Kong SAR, China), 
 
 I just began my deep learning journey on the topic of intelligent audio.
 
+You can get to know me through my page: [rozenthegoat.github.io](https://rozenthegoat.github.io)
+
 If you are, or grinding to be a deep audio learner, feel free to collaborate with me.
 
 My email is ly423@ie.cuhk.edu.hk.
